@@ -1,0 +1,30 @@
+C:\Users\H2O\source\repos\BasitHesapMakinesi\bin\Debug\BasitHesapMakinesi.exe.config
+C:\Users\H2O\source\repos\BasitHesapMakinesi\bin\Debug\BasitHesapMakinesi.exe
+C:\Users\H2O\source\repos\BasitHesapMakinesi\bin\Debug\BasitHesapMakinesi.pdb
+C:\Users\H2O\source\repos\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\H2O\source\repos\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.Form1.resources
+C:\Users\H2O\source\repos\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.Properties.Resources.resources
+C:\Users\H2O\source\repos\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\H2O\source\repos\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\H2O\source\repos\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.exe
+C:\Users\H2O\source\repos\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.pdb
+C:\Users\Celilhan\Desktop\hesap makinesi\bin\Debug\BasitHesapMakinesi.exe.config
+C:\Users\Celilhan\Desktop\hesap makinesi\bin\Debug\BasitHesapMakinesi.exe
+C:\Users\Celilhan\Desktop\hesap makinesi\bin\Debug\BasitHesapMakinesi.pdb
+C:\Users\Celilhan\Desktop\hesap makinesi\obj\Debug\BasitHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\Celilhan\Desktop\hesap makinesi\obj\Debug\BasitHesapMakinesi.Properties.Resources.resources
+C:\Users\Celilhan\Desktop\hesap makinesi\obj\Debug\BasitHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Celilhan\Desktop\hesap makinesi\obj\Debug\BasitHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Celilhan\Desktop\hesap makinesi\obj\Debug\BasitHesapMakinesi.exe
+C:\Users\Celilhan\Desktop\hesap makinesi\obj\Debug\BasitHesapMakinesi.pdb
+C:\Users\Celilhan\Desktop\hesap makinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\bin\Debug\BasitHesapMakinesi.exe.config
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\bin\Debug\BasitHesapMakinesi.exe
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\bin\Debug\BasitHesapMakinesi.pdb
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\obj\Debug\BasitHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\obj\Debug\BasitHesapMakinesi.Properties.Resources.resources
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\obj\Debug\BasitHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\obj\Debug\BasitHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\obj\Debug\BasitHesapMakinesi.exe
+C:\Users\Celilhan\Desktop\Projeler\Ödev\hesap makinesi\obj\Debug\BasitHesapMakinesi.pdb
